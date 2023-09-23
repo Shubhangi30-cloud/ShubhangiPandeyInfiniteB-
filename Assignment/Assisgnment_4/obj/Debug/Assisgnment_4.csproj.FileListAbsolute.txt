@@ -1,0 +1,7 @@
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\obj\Debug\Assisgnment_4.csproj.AssemblyReference.cache
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\obj\Debug\Assisgnment_4.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\bin\Debug\Assisgnment_4.exe.config
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\bin\Debug\Assisgnment_4.exe
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\bin\Debug\Assisgnment_4.pdb
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\obj\Debug\Assisgnment_4.exe
+C:\Users\shubhangp\source\repos\Assisgnment_4\Assisgnment_4\obj\Debug\Assisgnment_4.pdb

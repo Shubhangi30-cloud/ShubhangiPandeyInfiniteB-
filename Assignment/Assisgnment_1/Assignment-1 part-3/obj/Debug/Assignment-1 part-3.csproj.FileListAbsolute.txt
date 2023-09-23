@@ -1,0 +1,7 @@
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\bin\Debug\Assignment-1 part-3.exe.config
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\bin\Debug\Assignment-1 part-3.exe
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\bin\Debug\Assignment-1 part-3.pdb
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\obj\Debug\Assignment-1 part-3.csproj.AssemblyReference.cache
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\obj\Debug\Assignment-1 part-3.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\obj\Debug\Assignment-1 part-3.exe
+C:\Users\shubhangp\source\repos\Assignment-1 part-3\Assignment-1 part-3\obj\Debug\Assignment-1 part-3.pdb

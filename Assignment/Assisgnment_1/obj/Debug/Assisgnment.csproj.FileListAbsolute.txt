@@ -1,0 +1,7 @@
+D:\Training\Assisgnment\Assisgnment\bin\Debug\Assisgnment.exe.config
+D:\Training\Assisgnment\Assisgnment\bin\Debug\Assisgnment.exe
+D:\Training\Assisgnment\Assisgnment\bin\Debug\Assisgnment.pdb
+D:\Training\Assisgnment\Assisgnment\obj\Debug\Assisgnment.csproj.AssemblyReference.cache
+D:\Training\Assisgnment\Assisgnment\obj\Debug\Assisgnment.csproj.CoreCompileInputs.cache
+D:\Training\Assisgnment\Assisgnment\obj\Debug\Assisgnment.exe
+D:\Training\Assisgnment\Assisgnment\obj\Debug\Assisgnment.pdb
