@@ -1,0 +1,6 @@
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\bin\Debug\CodeTest_Csharp.exe.config
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\bin\Debug\CodeTest_Csharp.exe
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\bin\Debug\CodeTest_Csharp.pdb
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\obj\Debug\CodeTest_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\obj\Debug\CodeTest_Csharp.exe
+C:\Users\shubhangp\source\repos\CodeTest_Csharp\CodeTest_Csharp\obj\Debug\CodeTest_Csharp.pdb
