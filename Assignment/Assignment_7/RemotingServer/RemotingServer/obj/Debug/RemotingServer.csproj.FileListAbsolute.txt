@@ -1,0 +1,9 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\bin\Debug\RemotingServer.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\bin\Debug\RemotingServer.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\bin\Debug\RemotingServer.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.Service.resources
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.Properties.Resources.resources
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.GenerateResource.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingServer\RemotingServer\obj\Debug\RemotingServer.pdb

@@ -1,0 +1,11 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingServer.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingServer.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\bin\Debug\RemotingServer.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Assignment\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
