@@ -1,0 +1,7 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\bin\Debug\CaseStudy-1.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\bin\Debug\CaseStudy-1.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\bin\Debug\CaseStudy-1.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\obj\Debug\CaseStudy-1.csproj.AssemblyReference.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\obj\Debug\CaseStudy-1.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\obj\Debug\CaseStudy-1.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\Case Study\CaseStudy-1\CaseStudy-1\obj\Debug\CaseStudy-1.pdb
