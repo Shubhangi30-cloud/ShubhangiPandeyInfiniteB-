@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AE6AF1A-35F9-48B4-BF66-A2E4D135E136}</ProjectGuid>
+    <ProjectGuid>{71D31DA9-DD24-4A2F-BB8C-211B578E0E0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CaseStudy_1</RootNamespace>
-    <AssemblyName>CaseStudy-1</AssemblyName>
+    <RootNamespace>Case_Study</RootNamespace>
+    <AssemblyName>Case_Study</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App.cs" />
-    <Compile Include="Info.cs" />
+    <Compile Include="Course.cs" />
+    <Compile Include="LocalDate.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="student.cs" />
+    <Compile Include="UseInterface.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
