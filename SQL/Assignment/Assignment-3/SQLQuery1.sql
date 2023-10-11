@@ -119,9 +119,11 @@ where comm>sal+sal/10
 select ename from employees where(ename like '%L%L%' and deptno = 30) or mrg_id = 7782
 
 --16. Display the names of employees with experience of over 30 years and under 40 yrs.Count the total number of employees. 
-select ename ,DATEDIFF(year,hiredate,GETDATE()) age from employees  where DATEDIFF(year,hiredate,GETDATE()) between 30 and 40 
-select count(ename) as total from employees
-where DATEDIFF(year,hiredate,GETDATE()) between 30 and 40
+select
+	(select count(*) from employees
+				where datediff(year,hiredate,getdate()) between 30 and 40) 'Total'
+				,ename as 'Total Employees',datediff(year,hiredate,getdate()) 'Experience' from employees 
+where datediff(year,hiredate,getdate()) between 30 and 40
 
 
 --17. Retrieve the names of departments in ascending order and their employees in descending order. 
