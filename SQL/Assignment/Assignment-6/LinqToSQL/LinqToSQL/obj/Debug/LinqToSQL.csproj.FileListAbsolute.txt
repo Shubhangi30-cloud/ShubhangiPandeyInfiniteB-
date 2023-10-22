@@ -1,0 +1,7 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb

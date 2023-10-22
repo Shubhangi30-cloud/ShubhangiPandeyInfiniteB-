@@ -138,3 +138,5 @@ from employees
 where ename ='MILLER'
 
 --End 
+
+select * from employees

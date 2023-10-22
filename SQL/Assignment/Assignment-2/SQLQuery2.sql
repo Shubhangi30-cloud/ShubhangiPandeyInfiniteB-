@@ -16,6 +16,7 @@ COMM int,
 DEPTNO int
 
 )
+
 --This is the second table
 create table DEPT (
     DEPTNO int,
