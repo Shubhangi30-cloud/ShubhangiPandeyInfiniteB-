@@ -1,0 +1,7 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\bin\Debug\Codebased_2.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\bin\Debug\Codebased_2.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\bin\Debug\Codebased_2.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\obj\Debug\Codebased_2.csproj.AssemblyReference.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\obj\Debug\Codebased_2.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\obj\Debug\Codebased_2.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\SQL\Assignment\Assignment-6\Codebased_2\Codebased_2\obj\Debug\Codebased_2.pdb
