@@ -1,0 +1,7 @@
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\bin\Debug\JavascriptTest_1.exe.config
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\bin\Debug\JavascriptTest_1.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\bin\Debug\JavascriptTest_1.pdb
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\obj\Debug\JavascriptTest_1.csproj.AssemblyReference.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\obj\Debug\JavascriptTest_1.csproj.CoreCompileInputs.cache
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\obj\Debug\JavascriptTest_1.exe
+C:\Users\shubhangp\Desktop\Training1\ShubhangiPandeyInfiniteB-\CSharp\CodeBasedTest\CodeBased_Test-7\JavascriptTest_1\JavascriptTest_1\obj\Debug\JavascriptTest_1.pdb
